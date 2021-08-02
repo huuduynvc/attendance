@@ -6,7 +6,7 @@ Nguyễn Hữu Duy, KHTN (thay đổi cấu trúc database phù hợp với đi�
 Huỳnh Duy, KHTN (tích hợp điểm danh trực tuyến cho sinh viên)
 
 # PURPOSE
-Plugin hỗ trợ admin thêm plugin attendance (https://github.com/huuduynvc/attendance) cho nhiều khóa học trên moodle
+Plugin hỗ trợ admin, giáo viên quản lí dữ liệu điểm danh khuôn mặt như xem kết quả điểm danh, thống kê, xuất file..., sinh viên thực hiện điểm danh trực tuyến và xem kết quả điểm danh...
 
 # DOCUMENTATION
 https://docs.moodle.org/en/Attendance_activityv
